@@ -1,2 +1,2 @@
-# advent_of_code_2015
-Advent of Code 2015 Challenges
+# Advent of Code 2015 Challenges
+Collection of my code done in Python
